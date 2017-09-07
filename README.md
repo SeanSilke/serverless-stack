@@ -7,7 +7,6 @@ Service Information
 service: notes-app-api
 stage: prod
 region: us-west-2
-stack: notes-app-api-prod
 api keys:
   None
 endpoints:
